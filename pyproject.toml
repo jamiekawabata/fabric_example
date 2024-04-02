@@ -9,7 +9,7 @@ version = "0.0.1"
 # authors = [ {name = "Satya Nadella", email = "satya@example.com"} ]
 # readme = "README.md"
 dependencies = [
-	youtube-transcript-api
+	"youtube-transcript-api"
 ]
 
 
